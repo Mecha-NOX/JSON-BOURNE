@@ -52,13 +52,13 @@ This project, developed in Unreal Engine 5, is an assignment for the internship 
 
 ## **Screenshots / GIFs**
 
-![BattleBlasters1](https://github.com/Mecha-NOX/Battle-Blasters/blob/6f07fb1f80befbacc88ad55d0f6b7aa7df4201b5/GIFs/Battle-Blasters_Cover.gif)
+![BattleBlasters1](https://github.com/Mecha-NOX/JSON-BOURNE/blob/6f07fb1f80befbacc88ad55d0f6b7aa7df4201b5/GIF/JSON-BOURNE.gif)
   
 ---
 
 ## **Gameplay Video**
 
-Watch the gameplay video on YouTube to see [FPS Shooter Gameplay](https://youtu.be/tLNkaF6ZHlk) in action.
+Watch the gameplay video on YouTube to see [FPS Shooter Gameplay](https://youtu.be/tjKuJ70XJ_A) in action.
   
 ---
 
