@@ -52,7 +52,7 @@ This project, developed in Unreal Engine 5, is an assignment for the internship 
 
 ## **Screenshots / GIFs**
 
-![BattleBlasters1](https://github.com/Mecha-NOX/JSON-BOURNE/blob/6f07fb1f80befbacc88ad55d0f6b7aa7df4201b5/GIF/JSON-BOURNE.gif)
+![BattleBlasters1](https://github.com/Mecha-NOX/JSON-BOURNE/blob/f42e23de40755a664a4806c1f838b793698fdc57/GIF/JSON-BOURNE.gif)
   
 ---
 
